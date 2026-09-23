@@ -17,17 +17,11 @@ The intended camera and both mounts have been checked by the maker. Real install
 
 ### SO-101 wrist mount
 
-_Photo slot: camera installed on the SO-101 wrist._
-
 ![38 mm IMX307 camera installed on the SO-101 wrist](images/so101-wrist-installed.jpg) 
 
 ### Tripod / ball-head mount
 
-_Photo slot: camera and 1/4-20 ball head assembled._
-
 Soon, photo will be updated.
-
-Upload your photos to an `images` folder in this repository and replace each slot with the image line shown in its adjacent HTML comment. You can also drag a photo into GitHub's README editor and use the link it generates.
 
 ## Camera board compatibility
 
