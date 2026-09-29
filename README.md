@@ -22,7 +22,11 @@ SO-101 wrist installation with the intended 38 × 38 mm camera board:
 
 ### Tripod / ball-head mount
 
-Tripod installation photos will be added here.
+Mount on ball-head mount before installing the camera module
+![38 mm IMX307 camera installed on Tripod&ballmount](images/Tripod_installation1.JPEG) 
+
+Tripod & Ball-head mount
+![38 mm IMX307 camera installed on Tripod&ballmount](images/Tripod_IMX307_38mm_quarter20_nut_v2_installed.JPEG) 
 
 ## Camera board compatibility
 
